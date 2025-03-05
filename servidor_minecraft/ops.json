@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d527d908-9e65-3a84-84f0-493d37261c5e",
+    "name": "BaconHairLord",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
